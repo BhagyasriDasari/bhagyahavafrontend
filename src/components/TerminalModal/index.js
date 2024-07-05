@@ -1,4 +1,3 @@
-// TerminalModal.jsx
 import React from 'react';
 import { Dialog, Heading, Divider, Content, ButtonGroup, Button, TextField } from '@adobe/react-spectrum';
 

@@ -133,7 +133,7 @@ class Desktop3 extends Component {
               >
                 <Item key="option1">Option 1</Item>
                 <Item key="option2">Option 2</Item>
-                {/* Add more options as needed */}
+                
               </Picker>
               <Picker
                 label="Sub Category"
@@ -142,7 +142,7 @@ class Desktop3 extends Component {
               >
                 <Item key="option1">Option 1</Item>
                 <Item key="option2">Option 2</Item>
-                {/* Add more options as needed */}
+                
               </Picker>
               <TextField
                 label="Description"

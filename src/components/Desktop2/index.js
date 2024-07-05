@@ -1,4 +1,3 @@
-// Desktop2.jsx
 import React from 'react';
 import { Flex, View, Heading, Button, TextField, Picker, Item, Switch, Divider } from '@adobe/react-spectrum';
 import Sidebar from '../Sidebar';

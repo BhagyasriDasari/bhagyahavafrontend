@@ -2,8 +2,7 @@ import React from 'react';
 import { Flex, View, Heading, Button, TableView, TableHeader, TableBody, Column, Row, Cell, Checkbox } from '@adobe/react-spectrum';
 import Edit from '@spectrum-icons/workflow/Edit';
 import Delete from '@spectrum-icons/workflow/Delete';
-import Sidebar from '../Sidebar'; // Adjust the path as per your actual sidebar component location
-
+import Sidebar from '../Sidebar'; 
 const airports = [
   { name: 'Indra Gandhi International Airport', country: 'India', code: 'DEL', terminals: 3 },
   { name: 'Dubai International Airport', country: 'UAE', code: 'DXB', terminals: 5 },
@@ -15,7 +14,7 @@ const airports = [
 const actionButtonStyles = {
   display: 'flex',
   alignItems: 'center',
-  gap: 'size-200', // Gap between icons
+  gap: 'size-200', 
 };
 
 const deleteButtonStyles = {

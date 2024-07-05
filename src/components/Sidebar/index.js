@@ -2,7 +2,7 @@ import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { View, Heading } from '@adobe/react-spectrum';
 import HomeIcon from '@spectrum-icons/workflow/Home';
-import ShieldIcon from '@spectrum-icons/workflow/Shield'; // Example of an alternative icon
+import ShieldIcon from '@spectrum-icons/workflow/Shield'; 
 
 const Sidebar = () => {
   const location = useLocation();
