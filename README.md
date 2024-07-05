@@ -18,3 +18,5 @@ React: Frontend framework for building user interfaces.
 React Spectrum: Adobe's design system for React applications.
 React Router: Routing library for navigating between different components.
 CSS Modules: Local scope CSS by default in React.
+
+hosted link: https://bhagyahavahavai.netlify.app/
