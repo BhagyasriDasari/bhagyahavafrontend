@@ -1,4 +1,3 @@
-// Header.jsx
 import React from 'react';
 import { Flex, Heading } from '@adobe/react-spectrum';
 
