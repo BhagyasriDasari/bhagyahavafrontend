@@ -1,0 +1,16 @@
+/* Example CSS for layout */
+.container {
+    display: flex;
+  }
+  
+  .sidebar {
+    flex: 0 0 250px; /* Fixed width for sidebar */
+    background-color: #f0f0f0; /* Example background color */
+    padding: 20px;
+  }
+  
+  .main-content {
+    flex: 1; /* Takes up remaining space */
+    padding: 20px;
+  }
+  
